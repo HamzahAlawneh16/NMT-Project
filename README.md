@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # Neural Machine Translation (English → Arabic)
 **Developed by:** Hamza Alawneh & Nabil Al-Halabi
 
